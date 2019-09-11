@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown_with_sleep
-  sleep(5)
+  sleep(1)
 end
 
 def countdown(integer)
