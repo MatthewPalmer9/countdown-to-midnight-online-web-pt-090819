@@ -1,7 +1,7 @@
 #write your code here
 
-def countdown_with_sleep
-  sleep(5)
+def countdown_with_sleep(number)
+  sleep(number)
 end
 
 def countdown(number)
